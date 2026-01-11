@@ -1,4 +1,4 @@
-// Pattern printing program
+//  Star Pattern printing program
 // Concept used: Nested loops
 public class Basic{
   public static void main(String[] args) {
