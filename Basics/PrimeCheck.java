@@ -2,7 +2,7 @@
 // Logic: A prime number has exactly two factors: 1 and itself
 // Input: Any positive integer
 // Output: Prime or Not Prime
-public class Basic{
+public class PrimeCheck{
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
      int n= sc.nextInt();
